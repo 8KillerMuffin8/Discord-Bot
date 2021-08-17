@@ -1,0 +1,7 @@
+===================================================
+
+Token - Nzc1MDUxMjE0NjcyODg3ODQw.X6gssQ.TzCeBH9XM5XOiQjIsdSOLUyDWsE
+Client ID - 775051214672887840
+URL - http://discord.com/oauth2/authorize?client_id=775051214672887840&scope=bot
+
+===================================================

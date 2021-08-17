@@ -1,0 +1,46 @@
+{
+    "title": "DoytsheBot Help",
+    "footer": "DoytsheBot v1.0",
+    "fields": [
+        "insult",
+        "apologize",
+        "spank",
+        "hitonme"
+    ],
+    "fields_value": [
+        "for me to insult you",
+        "for me to apologize",
+        "if i were a bad boy",
+        "if you want your pants to get wet"
+    ],
+    "spank_response": [
+        "Ouchies",
+        "You know i like it",
+        "Is that all you got?",
+        "YEAH DADDY!",
+        "Just like Oren"
+    ],
+    "sorry": [
+        "PLEASE FORGIVE ME",
+        "PLEASE DON'T KILL ME",
+        "ILL SUCK YOUR DICK, I PROMISE!",
+        "I'M SO SORRY"
+    ],
+    "hit_response": [
+        "Hey, wanna fuck?",
+        "Well, here I am. What are your other two wishes?",
+        "Hey, my name's Microsft. Can I crash at your place tonight?",
+        "Are you French? Because Eiffel for you.",
+        "Do you like raisins? How do you feel about a date?",
+        "There is something wrong with my cell phone. It doesn't have your number in it.",
+        "If I could rearrange the alphabet, I’d put ‘U’ and ‘I’ together.",
+        "Aside from being sexy, what do you do for a living?",
+        "I must be a snowflake, because I've fallen for you.",
+        "Are you from Tennessee? Because you're the only 10 I see!",
+        "If you were a Transformer… you’d be Optimus Fine.",
+        "Are you a parking ticket? Because you’ve got FINE written all over you.",
+        "I wish I were cross-eyed so I can see you twice.",
+        "I must be in a museum, because you truly are a work of art.",
+        "Do you believe in love at first sight—or should I walk by again?"
+    ]
+}
